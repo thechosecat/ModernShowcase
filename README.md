@@ -1,4 +1,4 @@
-# ⛏️ ModernShowcase | 展示櫃插件
+# ⛏️ ModernShowcase | 展示櫃插件 | 斂財 啟動!
 遊戲版本: 1.19.4+
 
 Spigot: https://www.spigotmc.org/resources/modernshowcase-no-more-item-frame-1-19-4-1-20-4.114987/
