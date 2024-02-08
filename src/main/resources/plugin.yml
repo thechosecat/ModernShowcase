@@ -1,0 +1,11 @@
+name: ModernShowcase
+main: me.dru.showcase.ModernShowcase
+version: 1.0
+description: "A good showcase plugin"
+author: Dru_TNT
+folia-supported: true
+api-version: 1.19
+commands:
+  ModernShowcase:
+    description: "ModernShowcase management command"
+    aliases: [ms,showcase]
